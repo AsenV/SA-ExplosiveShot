@@ -1,0 +1,16 @@
+# Build results
+bin
+obj
+[Bb]uild
+[Ll]og
+
+# Visual Studio cacheoptions
+.vs
+.user
+.suo
+
+# Backup & temp files
+.tmp
+.bak
+.swp
+.cache

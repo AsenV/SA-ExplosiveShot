@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\_VSFiles\SDK\plugin-sdk\tools\myplugin-gen\generated\ExplosiveShot\source\Main.cpp(45,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\_VSFiles\SDK\plugin-sdk\tools\myplugin-gen\generated\ExplosiveShot\source\Main.cpp(108,84): warning C4244: 'argumento': conversão de 'float' para 'unsigned int', possível perda de dados
+  ExplosiveShot.vcxproj -> C:\_VSFiles\SDK\plugin-sdk\tools\myplugin-gen\generated\ExplosiveShot\bin\GTASA\Debug\ExplosiveShot.SA.asi
+  
+  INFORMAÇÕES: nenhuma tarefa em execução com os critérios especificados.
+  C:\_VSFiles\SDK\plugin-sdk\tools\myplugin-gen\generated\ExplosiveShot\bin\GTASA\Debug\ExplosiveShot.SA.asi
+  1 arquivo(s) copiado(s)
